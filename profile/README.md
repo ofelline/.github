@@ -1,5 +1,5 @@
 <div>
- <h1 align="center">Omnisoft</h1>
+ <h1 align="center">Offeline</h1>
 </div>
 Offeline aims to fill in the gaps left in the current AI revolution; we are a group  focused on contributing to the world of free software and artificial intelligence 
 
