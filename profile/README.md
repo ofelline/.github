@@ -2,8 +2,7 @@
   <h1>Offeline</h1>
 
   <p>
-    Offeline was built to liberate the world from the direction of the AI industry.
-    We believe everyone should have an alternative to paid AI software.
+    Articial Intelligence that belongs to you 
   </p>
 </div>
 
