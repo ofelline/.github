@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <h2>Web & Desktop</h2>
+  <h3>Web & Desktop</h3>
 
   <img
     src="https://res.cloudinary.com/diekemzs9/image/upload/c_limit,w_1800,q_auto,f_auto/v1784107729/527_2x_shots_so_fdjbji.png"
@@ -22,10 +22,10 @@
 <br>
 
 <div align="center">
-  <h2>Mobile</h2>
+  <h3>Mobile</h3>
 
   <img
-    src="https://res.cloudinary.com/diekemzs9/image/upload/c_limit,w_700,q_auto,f_auto/v1784107528/phone.png"
+    src="https://res.cloudinary.com/diekemzs9/image/upload/c_limit,w_1000,q_auto,f_auto/v1784107528/phone.png"
     alt="Offeline mobile interface"
     width="800"
   />
