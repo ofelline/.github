@@ -1,7 +1,7 @@
 <div>
  <h1 align="center">Omnisoft</h1>
 </div>
-Omnisoft aims to fill in the gaps left in the current AI revolution; we are a group  focused on contributing to the world of free software and artificial intelligence 
+Offeline aims to fill in the gaps left in the current AI revolution; we are a group  focused on contributing to the world of free software and artificial intelligence 
 
 
 ## Our projects 
